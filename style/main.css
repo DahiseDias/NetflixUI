@@ -96,7 +96,10 @@ header .container{
 
 
 .box-filme{
-    height: 100px;
-   
+    width: 100%;
     display: block;
-}
+    cursor: pointer;
+
+
+
+
